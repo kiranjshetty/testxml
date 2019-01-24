@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf8'?>
-<mime-type name="application/xml" type="xml">
+<mime-type name="*.xml" type="xml">
 <description>XML document</description>
 <extensions>.xml</extensions>
 </mime-type>
