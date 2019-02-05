@@ -5,4 +5,5 @@
   <node IP_Address="8.9.1.3" Managed_by="Applications" description="CERT" hostname="server3" name="server3" osFamily="Red Hat Enterprise Linux" ssh-authentication="password" ssh-password-option="option.sshPassword" tags="CERT" username="svcrundeck" />
   <node IP_Address="8.9.1.5" Managed_by="Applications" description="CERT" hostname="server5" name="server5" osFamily="Red Hat Enterprise Linux" ssh-authentication="password" ssh-password-option="option.sshPassword" tags="CERT" username="svcrundeck" /> 
   <node IP_Address="8.9.1.7" Managed_by="Applications" description="CERT" hostname="server7" name="server7" osFamily="Red Hat Enterprise Linux" ssh-authentication="password" ssh-password-option="option.sshPassword" tags="CERT" username="svcrundeck" /> 
+  <node IP_Address="8.9.1.8" Managed_by="Applications" description="CERT" hostname="server8" name="server8" osFamily="Red Hat Enterprise Linux" ssh-authentication="password" ssh-password-option="option.sshPassword" tags="CERT" username="svcrundeck" /> 
 </project>
